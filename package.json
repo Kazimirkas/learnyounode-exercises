@@ -1,0 +1,17 @@
+{
+  "name": "learnyounode-exercises",
+  "version": "1.0.0",
+  "description": "my exercises",
+  "main": "text.txt",
+  "dependencies": {
+    "bl": "^1.1.2",
+    "strftime": "^0.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"No test specified!\" && exit 1"
+  },
+  "author": "kazimirkas",
+  "license": "ISC",
+  "homepage": "https://github.com/Kazimirkas"
+}
